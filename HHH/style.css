@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.color {
+    background-color: black  ;
+}
+
+div {
+    display: inline;
+  }
+
+.text {
+    color: white;
+}
